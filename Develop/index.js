@@ -21,6 +21,22 @@ function askUser(){
         message:"what are the requirements and/or steps to install your application?",
     },
     {
+        type:"input",
+        name:"usage",
+        message:"how will your site/application be used?",
+    },
+    {
+        type:"inputs",
+        name:"credits",
+        message:"Please list and collaborators, contributors, and third party sources you used to make this project",
+    },
+    {
+        type:"input",
+        name:"features",
+        message:"what are some of the unique features of your site/application?",
+    },
+
+    {
         type:"list",
         name:"license",
         message:"Which type of license are you using for this site?",

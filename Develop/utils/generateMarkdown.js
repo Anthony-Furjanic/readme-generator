@@ -14,10 +14,24 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.websiteTitle}
 ##description
+<br/>
 ${data.description}
 <br/>
 ##installation
+<br/>
 ${data.installation}
+<br/>
+##usage
+<br/>
+${data.usage}
+<br/>
+##credits
+<br/>
+${data.credits}
+<br/>
+##features
+<br/>
+${data.features}
 <br/>
 ##license
 ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
