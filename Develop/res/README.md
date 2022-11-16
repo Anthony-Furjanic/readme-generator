@@ -1,23 +1,23 @@
-# abc
+# readme generator
 ##description
 <br/>
-abc
+generate readme
 <br/>
 ##installation
 <br/>
-a
+node installation and inquire installation
 <br/>
 ##usage
 <br/>
-a
+answer questions, get output of readme
 <br/>
 ##credits
 <br/>
-a
+me, myself, and I (also github, tutor, instructors)
 <br/>
 ##features
 <br/>
-a
+super unique, whole project is groundbreaking
 <br/>
 ##license
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
