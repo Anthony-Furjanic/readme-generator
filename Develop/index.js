@@ -20,6 +20,13 @@ function askUser(){
         name:"installation",
         message:"what are the requirements and/or steps to install your application?",
     },
+    {
+        type:"list",
+        name:"license",
+        message:"Which type of license are you using for this site?",
+        choices: ["Apache","Academic","MIT","Open"]
+    },
+
 
 
 
